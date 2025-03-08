@@ -37,10 +37,6 @@ The project utilizes a currency exchange API to fetch real-time exchange rates. 
 - Obtain an API key from a currency exchange rate provider (e.g., ExchangeRate-API, Open Exchange Rates, or Fixer.io).
 - Replace the placeholder API key in the JavaScript file with your own.
 
-## Future Enhancements
-- Add support for historical exchange rate data
-- Implement currency conversion charts
-- Include multiple language support
 
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements.
